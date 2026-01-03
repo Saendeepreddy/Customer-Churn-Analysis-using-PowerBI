@@ -4,11 +4,11 @@ Customer churn is one of the most critical challenges faced by subscription-base
 
 The analysis is performed using Power BI, leveraging interactive dashboards and advanced visualizations to uncover key churn drivers.
 
- Business Objective
+Business Objective:
 
 To help the company understand customer behavior better and design effective retention strategies to reduce churn and improve long-term profitability.
 
- Tools & Technologies
+Tools & Technologies:
 
 Power BI
 
@@ -20,7 +20,7 @@ Interactive Dashboards
 
 Data Visualization Techniques
 
- Dataset
+Dataset:
 
 The dataset contains customer-level information including:
 
@@ -38,7 +38,7 @@ Internet & Add-on Services
 
 Churn Status
 
- Key Metrics Analyzed
+Key Metrics Analyzed:
 
 Total Customers
 
@@ -52,7 +52,7 @@ Average Customer Tenure
 
 (All metrics are dynamically filterable)
 
- Key Insights
+Key Insights:
 
 New customers (0–12 months tenure) have the highest churn rate.
 
@@ -68,7 +68,7 @@ Bundled services increase customer stickiness and reduce churn.
 
 Senior citizens show slightly higher churn and may benefit from targeted retention offers.
 
- Dashboards & Visuals Included
+Dashboards & Visuals Included:
 
 Churn rate by tenure segments
 
@@ -88,7 +88,7 @@ AI-generated churn risk score distribution
 
 High-risk customer segmentation
 
- Business Recommendations
+Business Recommendations:
 
 Focus on early retention for customers in their first year.
 
@@ -100,7 +100,7 @@ Encourage automatic payment methods to lower churn.
 
 Use churn risk scores to proactively retain high-risk customers.
 
- Project Outcome
+Project Outcome:
 
 This analysis helps stakeholders:
 
@@ -112,11 +112,11 @@ Reduce revenue loss
 
 Make informed, data-driven decisions
 
- Acknowledgments
+Acknowledgments:
 
 Special thanks to Innomatics Research Labs for providing guidance and support throughout this project, and heartfelt appreciation to trainers, mentors, and management for their continuous encouragement.
 
- Files Included
+Files Included:
 
 customer churn analysis ppt.pptx – Power BI presentation
 
@@ -124,8 +124,10 @@ Dataset file
 
 Project documentation
 
- Contact
+Contact:
 
 Sandeep Reddy
+
 Aspiring Data Analyst | Power BI | SQL | Python
- India
+
+India
